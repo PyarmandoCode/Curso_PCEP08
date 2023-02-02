@@ -5,11 +5,11 @@ precio_prod = 20.8
 cantidad_prod = 100
 estado_prod = True
 
-print(type(edad_per))
-print(type(nombre_per))
-print(type(precio_prod))
-print(type(str(cantidad_prod)))
-print(type(estado_prod))
+# print(type(edad_per))
+# print(type(nombre_per))
+# print(type(precio_prod))
+# print(type(str(cantidad_prod)))
+# print(type(estado_prod))
 
 listas_personas = ['JUAN', 200, 20.90]  # lIST
 sueldos = (1990, 27768, 3545) #tuple
