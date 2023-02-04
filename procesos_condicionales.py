@@ -1,9 +1,9 @@
 # todo condicionale simples
-# edad = int(input("Ingrese la edad de la persona:"))
-# if edad > 18:
-#     print("La Persona es mayor de edad")
-# else:
-#     print("La Persona es menor de edad")
+edad = int(input("Ingrese la edad de la persona:"))
+if edad > 18:
+    print("La Persona es mayor de edad")
+else:
+    print("La Persona es menor de edad")
 
 # todo condicionales multiples
 # candidato = input("candidato a elegir:")

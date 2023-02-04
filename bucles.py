@@ -1,7 +1,8 @@
 # todo bucle for
 
-# for _ in range(10):
-#    print("Hola Mundo")
+for _ in range(10):
+    print("Hola Mundo")
+print("finalizo el bucle")
 
 # for num in range(10):
 #    print(num)

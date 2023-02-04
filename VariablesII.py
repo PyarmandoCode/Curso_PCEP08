@@ -6,7 +6,7 @@ DocString
 
 # todo Comentario en Una sola Linea
 
-mentor = "Armando"
+mentor = "Armando" # todo esto es una variable string
 curso = "PCEP PYTHON"
 edad = 43
 salario = 1700
@@ -32,6 +32,6 @@ salario = 1700
 # si las puedo usar como variables
 import keyword
 print(keyword.kwlist)
-print(keyword.iskeyword('while'))
+print(keyword.iskeyword('While'))
 
 
